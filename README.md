@@ -1,16 +1,15 @@
 # Replication of Thermomorphogenesis RNA-seq Analysis in Arabidopsis
 
 ## Overview
-This repository contains a replication of the RNA-seq analysis from:
-Lee et al. (2024), *Nature Communications* — 
-"Nutrient levels control root growth responses to high ambient temperature in plants".
+This repository contains a replication of the RNA-seq analysis from
+_Nutrient levels control root growth responses to high ambient temperature in plants_ (citation below).
 
-The study investigates thermomorphogenesis in Arabidopsis thaliana, focusing on the roles of
+Thix study investigates thermomorphogenesis in Arabidopsis thaliana, focusing on the roles of
 HY5 and NRT1.1 in root growth responses to elevated temperature.
 
 ## Biological Background
 Thermomorphogenesis refers to plant growth responses to elevated ambient temperature,
-including enhanced root growth, altered architecture, and early flowering.
+including enhanced root and shoot growth, curvature, and early flowering.
 Key regulators include:
 - **HY5**: a master transcriptional regulator of root thermomorphogenesis
 - **NRT1.1**: a nitrate transporter downregulated by HY5 under heat stress
