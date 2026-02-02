@@ -46,5 +46,4 @@ expression compared to wild-type Col-0 plants.
 - `docs/` – full written report
 
 ## Citation
-Lee et al., 2024. *Nature Communications*.  
-GEO: GSE262197
+Lee, S., Showalter, J., Zhang, L. et al. Nutrient levels control root growth responses to high ambient temperature in plants. Nat Commun 15, 4689 (2024). https://doi.org/10.1038/s41467-024-49180-6
