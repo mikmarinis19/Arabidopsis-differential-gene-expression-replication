@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a replication of the RNA-seq analysis from:
 Lee et al. (2024), *Nature Communications* — 
-"Nutrient levels control root growth responses to high ambient temperature in plants."
+"Nutrient levels control root growth responses to high ambient temperature in plants".
 
 The study investigates thermomorphogenesis in Arabidopsis thaliana, focusing on the roles of
 HY5 and NRT1.1 in root growth responses to elevated temperature.
